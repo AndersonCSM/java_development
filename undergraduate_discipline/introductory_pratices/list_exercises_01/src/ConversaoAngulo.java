@@ -25,5 +25,6 @@ public class ConversaoAngulo {
         System.out.printf("Secante %.4f\n",(1/Math.cos(radians)));
         System.out.printf("Cotangente %.4f\n",(1/Math.tan(radians)));
 
+        input.close();
     }
 }

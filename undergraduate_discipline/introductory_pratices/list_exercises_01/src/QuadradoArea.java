@@ -12,5 +12,7 @@ public class QuadradoArea {
         side = input.nextFloat();
 
         System.out.printf("A área do quadrado é de: %.2f\n", (side*side));
+
+        input.close();
     }
 }

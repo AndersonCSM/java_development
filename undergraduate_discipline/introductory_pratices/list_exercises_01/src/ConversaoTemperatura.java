@@ -14,5 +14,7 @@ public class ConversaoTemperatura {
         fahr = (celsius * 9/5) + 32;
 
         System.out.printf("temperatura em Fahrenheit: %.2f F\n",fahr);
+
+        input.close();
     }
 }

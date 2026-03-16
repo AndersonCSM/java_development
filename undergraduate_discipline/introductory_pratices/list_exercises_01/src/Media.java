@@ -18,6 +18,7 @@ public class Media {
 
         System.out.printf("A média aritmética das notas inseridas é de %.2f ", (soma/3));
 
+        input.close();
     }
 
 }
