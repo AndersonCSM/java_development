@@ -61,3 +61,5 @@ Thumbs.db
 .project
 .pydevproject
 .cproject
+
+.agent/
